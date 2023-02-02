@@ -1,5 +1,5 @@
 # global values passed into all helm charts by default
-#adding new line
+#adding new line to the
 jx:
   # optional list of image pull secrets to use to pull container images
   imagePullSecrets: []
